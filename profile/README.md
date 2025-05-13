@@ -31,7 +31,7 @@ This digital workspace streamlines task management for the GiftHub application, 
 
 ## Remarks
 
-- Petru is the project coordinator - the **MasterScrum**.
+- Petru is the project coordinator - the **Product Owner**.
 - **ScrumMasters** are allowed to write anything anywhere within the project documentation, discussion channels, or boards.
 
 ### Teamwork
